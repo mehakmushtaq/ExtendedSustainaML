@@ -435,24 +435,7 @@ The central research direction is to support users in understanding not only **w
 
 ---
 
-## Research Prototype
 
-Extended SustainaML is an active academic research prototype.
 
-Some evaluation components and experimental procedures continue to be developed and validated. Results should therefore be interpreted within the experimental setup and methodology described in the associated research work.
 
-In particular, estimated sustainability measurements, meta-learning recommendations, LLM-generated recommendations, and interactive explanations should not be interpreted as guarantees of real-world performance or environmental impact.
 
----
-
-## Citation
-
-If you use SustainaML or Extended SustainaML in academic work, please cite the associated SustainaML publication.
-
-Citation information for the Extended SustainaML work will be added following publication.
-
----
-
-## License
-
-Please refer to the repository license for information about permitted use, modification, and distribution.
